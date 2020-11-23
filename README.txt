@@ -1,0 +1,18 @@
+THIS CODE WRITED ON DEV-C++
+
+WRITE YOUR COORDINATES IN COORDINATE.TXT LIKE {x,y}.
+AFTER THAT OPEN THE C FILE, GO > PROJECT SETTINGS > LINKERS AND WRITE
+-lbgi
+-lgdi32
+-luser32
+AND LAST RUN THE CODE!
+EXAMPLE:
+{-12,6}
+{8,-5}
+{-3,-7}
+{3,6}
+{14,1}
+
+
+BERKE YILDIZ   https://github.com/KBerkeYildiz
+ÇAĞRI ŞENTÜRK  https://github.com/cagrisenturk
